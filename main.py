@@ -1,0 +1,3 @@
+import jogoDaVelha
+
+jogoDaVelha.jogoDaVelha()
